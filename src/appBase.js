@@ -1,4 +1,4 @@
-const { Gio, GLib, GObject, Gdk, Gtk } = imports.gi;
+const { Adw, Gio, GLib, GObject, Gdk, Gtk } = imports.gi;
 const Debug = imports.src.debug;
 const FileOps = imports.src.fileOps;
 const Misc = imports.src.misc;
